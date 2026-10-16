@@ -20,7 +20,7 @@ Shared under [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0
 
 > Looking for the Old School Essentials version?
 >
-> <span class="fs-8">[🐑 OSE version](https://games.puzzledungeon.com/docs/lair-of-the-lamb-one-shot-edition-ose/){: .btn .btn-green }</span>
+>[🐑 OSE version](https://games.puzzledungeon.com/docs/lair-of-the-lamb-one-shot-edition/lair-of-the-lamb-one-shot-edition-ose/){: .btn .btn-green }
 
 [![](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)](/assets/images/lair-of-the-lamb-one-shot-edition/the-lamb-luke.png)
 
