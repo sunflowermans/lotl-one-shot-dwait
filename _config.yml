@@ -1,12 +1,17 @@
-title: Just the Games Template
-description: A starter template for hosting interactive tabletop RPG references with Just the Games.
+title: DWAIT
+description: "Don't Worry About It"
 theme: just-the-docs
 
-url: https://games.puzzledungeon.com
+url: https://dwait.puzzledungeon.com
 
 aux_links:
-  Template Repository: https://github.com/sunflowermans/just-the-games-template
-  Live Example: https://games.puzzledungeon.com/
+  "Return to the Puzzle Dungeon blog":
+    - "https://puzzledungeon.com/"
+
+# External navigation links
+nav_external_links:
+  - title: "🐉 Return to Just The Games (OSE)"
+    url: https://games.puzzledungeon.com
 
 defaults:
   - scope:
